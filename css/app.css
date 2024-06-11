@@ -1,0 +1,33 @@
+body {
+    background-image: url("../background.png");
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff
+}
+
+.selection {
+    padding: 40px;
+    margin: 70px;
+    background-color: #ffffff35;
+    border-radius: 20px;
+}
+
+.selection h1 {
+    text-align: center;
+}
+
+.table_input {
+    background-color: #ffffff0b;
+    border: none;
+    width: 80px;
+    height: 50px;
+    outline: none;
+    text-align: center;
+    border-radius: 20px;
+    color: #ffffff;
+}
+
+#main_part_machine_back {
+    width: 1280px;
+    height: 720px;
+    background-image: url("../fon.png");
+}
